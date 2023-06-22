@@ -1,0 +1,7 @@
+﻿  svchost.cpp
+D:\Interesting project\BS_shutDown\svchost\svchost\svchost.cpp(31,35): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 4 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  svchost.vcxproj -> D:\Interesting project\BS_shutDown\svchost\Release\svchost.exe
